@@ -19,6 +19,7 @@
     "build": "babel --presets env src -d public/js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "AraceliCumen <aycuevam@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/AraceliCumen/Random-box-react.git"
 }

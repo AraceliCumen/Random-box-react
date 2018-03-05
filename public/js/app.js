@@ -9,6 +9,8 @@ function RandomBox() {
 
   const styleH1 = {
     color: 'white',
+    textAling: 'center',
+    paddingTop: '70px',
   };
 
   const containerStyle = {
