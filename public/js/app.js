@@ -8,7 +8,7 @@ function RandomBox() {
   const fontStyle = fontFamily[Math.floor(Math.random() * fontFamily.length)];
 
   const styleH1 = {
-    color: white
+    color: 'white',
   };
 
   const containerStyle = {
